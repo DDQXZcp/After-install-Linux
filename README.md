@@ -27,3 +27,10 @@ In network proxy setting, auto is ok.
 
 5. sogou pinyin input
 
+6. python 3.6
+https://blog.csdn.net/yychuyu/article/details/84898941
+~~~
+sudo apt-install yum
+~~~
+
+
