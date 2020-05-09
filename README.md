@@ -32,5 +32,6 @@ https://blog.csdn.net/yychuyu/article/details/84898941
 ~~~
 sudo apt-install yum
 ~~~
+安装目录可依个人喜好创建，比如在此创建在 /usr/local/python3 ：
 
 
